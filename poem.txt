@@ -1,5 +1,9 @@
+This is the rainbow
+
 purple
+orange
 red
 yellow
 blue
-this is the end of poem.
+
+these are colour of rainbows.
